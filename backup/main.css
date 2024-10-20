@@ -1527,7 +1527,7 @@ input, select, textarea {
 /* Section/Article */
 .div {
     width: 90vw; /* 90% of the viewport width */
-    height: 900vh; /* 90% of the viewport height */
+    height: 900px; /* 90% of the viewport height */
     margin: auto; /* Center the article horizontally */
     display: flex; /* Use flexbox to center content */
     justify-content: center; /* Center content horizontally */
@@ -1536,7 +1536,6 @@ input, select, textarea {
 
 	section, article {
 		margin-bottom: 3em;
-		margin-top: 3em;
 
 	}
 
